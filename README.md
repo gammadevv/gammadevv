@@ -88,5 +88,5 @@
 </p>
 
 <p align="center">
-  <i>❝ <span aria-label="It’s something that’s produced here. To put it bluntly, it’s a body fluid of mine."><span aria-hidden="true">𝐼𝑡’𝑠 𝑠𝑜𝑚𝑒𝑡ℎ𝑖𝑛𝑔 𝑡ℎ𝑎𝑡’𝑠 𝑝𝑟𝑜𝑑𝑢𝑐𝑒𝑑 ℎ𝑒𝑟𝑒. 𝑇𝑜 𝑝𝑢𝑡 𝑖𝑡 𝑏𝑙𝑢𝑛𝑡𝑙𝑦, 𝑖𝑡’𝑠 𝑎 𝑏𝑜𝑑𝑦 𝑓𝑙𝑢𝑖𝑑 𝑜𝑓 𝑚𝑖𝑛𝑒.</span></span> ❞ – ECHIDNA</i>
+    <i>❝ <span aria-label="Programming is like sex. One mistake and you have to support it for the rest of your life."><span aria-hidden="true">𝑃𝑟𝑜𝑔𝑟𝑎𝑚𝑚𝑖𝑛𝑔 𝑖𝑠 𝑙𝑖𝑘𝑒 𝑠𝑒𝑥. 𝑂𝑛𝑒 𝑚𝑖𝑠𝑡𝑎𝑘𝑒 𝑎𝑛𝑑 𝑦𝑜𝑢 ℎ𝑎𝑣𝑒 𝑡𝑜 𝑠𝑢𝑝𝑝𝑜𝑟𝑡 𝑖𝑡 𝑓𝑜𝑟 𝑡ℎ𝑒 𝑟𝑒𝑠𝑡 𝑜𝑓 𝑦𝑜𝑢𝑟 𝑙𝑖𝑓𝑒.</span></span> ❞ – Michael Sinz</i>
 </p>
