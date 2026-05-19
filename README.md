@@ -55,18 +55,8 @@
 
 # <span aria-label="STATS"><span aria-hidden="true">𝚂𝚃𝙰𝚃𝚂</span></span>
 <div align="center">
-<picture>
-    <source media="(prefers-color-scheme: dark)"  srcset="https://github-readme-stats-clone-wine.vercel.app/api?username=gammadevv&show_icons=true&count_private=true&hide_border=true&theme=transparent"  />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-clone-wine.vercel.app/api?username=gammadevv&show_icons=true&count_private=true&hide_border=true&theme=default" />
-    <img alt="GitHub Stats" src="https://github-readme-stats-clone-wine.vercel.app/api?username=gammadevv&show_icons=true&count_private=true&hide_border=true&theme=default" />
-</picture>
-
-  
-<picture>
-    <source media="(prefers-color-scheme: dark)"  srcset="https://github-readme-stats-clone-wine.vercel.app/api/top-langs?username=gammadevv&hide_border=true&layout=compact&theme=transparent"  />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-clone-wine.vercel.app/api/top-langs?username=gammadevv&hide_border=true&layout=compact&theme=default" />
-    <img alt="GitHub Stats" src="https://github-readme-stats-clone-wine.vercel.app/api/top-langs?username=gammadevv&hide_border=true&layout=compact&theme=default" />
-</picture>
+<img src="https://raw.githubusercontent.com/gammadevv/gammadevv/1e33beeaa4e332637f4b227ffd7f311f3e5d1cdf/profile/stats.svg" />
+<img src="https://raw.githubusercontent.com/gammadevv/gammadevv/1e33beeaa4e332637f4b227ffd7f311f3e5d1cdf/profile/top-langs.svg" />
 </div>
 
 <div align="center">
