@@ -64,7 +64,7 @@
 <div align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" height="40" alt="Icon for fastapi" />
 <img width="12" />
-<img src="https://raw.githubusercontent.com/gammadevv/gammadevv/refs/heads/main/Flask.png" height="40" alt="flask" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" height="40" alt="Icon for flask" />
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/electron/electron-original.svg" height="40" alt="Icon for electron" />
 <img width="12" />
