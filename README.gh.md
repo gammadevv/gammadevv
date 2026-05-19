@@ -55,5 +55,5 @@
 </p>
 
 <p align="center">
-  <i>❝ <font="serif_it">It’s something that’s produced here. To put it bluntly, it’s a body fluid of mine.</font> ❞ – ECHIDNA</i>
+    <i>❝ <font="serif_it">"Programming is like sex. One mistake and you have to support it for the rest of your life."</font> ❞ – Michael Sinz</i>
 </p>
