@@ -41,7 +41,7 @@
 <center>
   <devicon name="fastapi" height="40" />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/gammadevv/gammadevv/refs/heads/main/Flask.png" height="40" alt="flask" />
+  <devicon name="flask" height="40" />
   <img width="12" />
   <devicon name="electron" height="40" />
   <img width="12" />
