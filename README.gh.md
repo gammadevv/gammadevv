@@ -39,13 +39,13 @@
 <center>
   <devicon name="fastapi" height="40" />
   <img width="12" />
-  <devicon name="flask" height="40" />
+  <img src="https://raw.githubusercontent.com/astral-sh/uv/refs/heads/main/docs/assets/logo-letter.svg" height="40" alt="uv" />
   <img width="12" />
   <devicon name="electron" height="40" />
   <img width="12" />
-  <devicon name="node.js" height="40" />
+  <devicon name="nodejs" height="40" />
   <img width="12" />
-  <devicon name="ephaptic" height="40" />
+  <img src="https://raw.githubusercontent.com/ephaptic/ephaptic/refs/heads/main/docs/assets/logo.png" height="40" alt="ephaptic" />
 </center>
 
 <hr>
