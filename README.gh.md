@@ -32,8 +32,8 @@
 
 # <font="mono">STATS</font>
 <center>
-  <stats user="gammadevv" show-icons count-private hide-border />
-  <stats user="gammadevv" route="/api/top-langs" layout="compact" hide-border />
+  <stats user="gammadevv" base-url="https://github-readme-stats-clone-wine.vercel.app" show-icons count-private hide-border />
+  <stats user="gammadevv" base-url="https://github-readme-stats-clone-wine.vercel.app" route="/api/top-langs" layout="compact" hide-border />
 </center>
 
 <center>
