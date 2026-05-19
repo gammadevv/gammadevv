@@ -16,7 +16,7 @@
 
 # <font="mono">PROJECTS</font>
 
-<projects user="gammadevv" limit="4" sort="stars">
+<projects user="gammadevv" limit="4" sort="updated">
   <template>
     <h3 align="left">
       {{ project.name }} 
