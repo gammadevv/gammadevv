@@ -72,7 +72,7 @@
 <div align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" height="40" alt="Icon for fastapi" />
 <img width="12" />
-<img src="https://raw.githubusercontent.com/astral-sh/uv/refs/heads/main/docs/assets/logo-letter.svg" height="40" alt="uv" />
+<img src="https://raw.githubusercontent.com/gammadevv/gammadevv/refs/heads/main/Flask.png" height="40" alt="flask" />
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/electron/electron-original.svg" height="40" alt="Icon for electron" />
 <img width="12" />
