@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://avatars.githubusercontent.com/u/179041613" height="128" />
+<img src="https://raw.githubusercontent.com/gammadevv/gammadevv/refs/heads/main/echidna3.png" height="128" />
   <h1 align="center">Gamma</h1>
   <div align="center">
 <img alt="Static Badge" src="https://img.shields.io/badge/Location-United_Kingdom-_?style=for-the-badge&logo=uk&logoColor=white&labelColor=black&color=rebeccapurple" />
