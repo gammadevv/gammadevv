@@ -21,7 +21,7 @@
   <a href="https://github.com/gammadevv/YumaAnimeAPI"><kbd>GitHub</kbd></a>
 </h3>
 <p align="left">
-  None
+  Anime scraping API [ DOWN ]
   <img alt="Static Badge" src="https://img.shields.io/badge/stars-5-_?style=social&logo=githubsponsors&logoColor=white&labelColor=black&color=rebeccapurple" />
   <img alt="Static Badge" src="https://img.shields.io/badge/forks-6-_?style=social&logo=forgejo&logoColor=white&labelColor=black&color=rebeccapurple" />
 </p>
@@ -72,13 +72,13 @@
 <div align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" height="40" alt="Icon for fastapi" />
 <img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" height="40" alt="Icon for flask" />
+<img src="https://raw.githubusercontent.com/astral-sh/uv/refs/heads/main/docs/assets/logo-letter.svg" height="40" alt="uv" />
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/electron/electron-original.svg" height="40" alt="Icon for electron" />
 <img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/node.js/node.js-original.svg" height="40" alt="Icon for node.js" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" height="40" alt="Icon for nodejs" />
 <img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ephaptic/ephaptic-original.svg" height="40" alt="Icon for ephaptic" />
+<img src="https://raw.githubusercontent.com/ephaptic/ephaptic/refs/heads/main/docs/assets/logo.png" height="40" alt="ephaptic" />
 </div>
 
 <hr>
