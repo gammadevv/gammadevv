@@ -17,26 +17,26 @@
 # <span aria-label="PROJECTS"><span aria-hidden="true">𝙿𝚁𝙾𝙹𝙴𝙲𝚃𝚂</span></span>
 
 <h3 align="left">
-  YumaAnimeAPI 
-  <a href="https://github.com/gammadevv/YumaAnimeAPI"><kbd>GitHub</kbd></a>
-</h3>
-<p align="left">
-  Anime scraping API [ DOWN ]
-  <img alt="Static Badge" src="https://img.shields.io/badge/stars-5-_?style=social&logo=githubsponsors&logoColor=white&labelColor=black&color=rebeccapurple" />
-  <img alt="Static Badge" src="https://img.shields.io/badge/forks-6-_?style=social&logo=forgejo&logoColor=white&labelColor=black&color=rebeccapurple" />
-</p>
-<h3 align="left">
-  CraftCode 
-  <a href="https://github.com/gammadevv/CraftCode"><kbd>GitHub</kbd></a>
+  gammadevv 
+  <a href="https://github.com/gammadevv/gammadevv"><kbd>GitHub</kbd></a>
 </h3>
 <p align="left">
   None
-  <img alt="Static Badge" src="https://img.shields.io/badge/stars-1-_?style=social&logo=githubsponsors&logoColor=white&labelColor=black&color=rebeccapurple" />
+  <img alt="Static Badge" src="https://img.shields.io/badge/stars-0-_?style=social&logo=githubsponsors&logoColor=white&labelColor=black&color=rebeccapurple" />
   <img alt="Static Badge" src="https://img.shields.io/badge/forks-0-_?style=social&logo=forgejo&logoColor=white&labelColor=black&color=rebeccapurple" />
 </p>
 <h3 align="left">
-  Dragon-Ball-Z-Character-Models 
-  <a href="https://github.com/gammadevv/Dragon-Ball-Z-Character-Models"><kbd>GitHub</kbd></a>
+  gammadevv.github.io 
+  <a href="https://github.com/gammadevv/gammadevv.github.io"><kbd>GitHub</kbd></a>
+</h3>
+<p align="left">
+  None
+  <img alt="Static Badge" src="https://img.shields.io/badge/stars-0-_?style=social&logo=githubsponsors&logoColor=white&labelColor=black&color=rebeccapurple" />
+  <img alt="Static Badge" src="https://img.shields.io/badge/forks-0-_?style=social&logo=forgejo&logoColor=white&labelColor=black&color=rebeccapurple" />
+</p>
+<h3 align="left">
+  ytcli 
+  <a href="https://github.com/gammadevv/ytcli"><kbd>GitHub</kbd></a>
 </h3>
 <p align="left">
   None
