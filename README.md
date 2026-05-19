@@ -8,9 +8,9 @@
 </div>
 </div>
 
-<img src="https://landsat.c00l.site/svg?text=Gamma&embed_image=true&attribution=true" />
-
 <hr>
+
+<img src="https://landsat.c00l.site/svg?text=Gamma&embed_image=true&attribution=true" />
 
 # <span aria-label="PROJECTS"><span aria-hidden="true">𝙿𝚁𝙾𝙹𝙴𝙲𝚃𝚂</span></span>
 
