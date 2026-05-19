@@ -8,9 +8,11 @@
   </center>
 </center>
 
-<hr>
+<center>
+  <img src="https://landsat.c00l.site/svg?text=Gamma&embed_image=true&attribution=true" />
+</center>
 
-<img src="https://landsat.c00l.site/svg?text=Gamma&embed_image=true&attribution=true" />
+<hr>
 
 # <font="mono">PROJECTS</font>
 
