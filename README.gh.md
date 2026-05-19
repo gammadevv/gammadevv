@@ -1,5 +1,5 @@
 <center>
-  <img src="https://avatars.githubusercontent.com/u/179041613" height="128" />
+  <img src="https://raw.githubusercontent.com/gammadevv/gammadevv/refs/heads/main/echidna3.png" height="128" />
   <h1 align="center">Gamma</h1>
   <center>
     <badge ltext="Location" rtext="United Kingdom" logo="uk" color="rebeccapurple" style="for-the-badge" logoColor="white" labelColor="black" />
