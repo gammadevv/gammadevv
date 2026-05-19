@@ -56,16 +56,16 @@
 # <span aria-label="STATS"><span aria-hidden="true">𝚂𝚃𝙰𝚃𝚂</span></span>
 <div align="center">
 <picture>
-    <source media="(prefers-color-scheme: dark)"  srcset="https://github-readme-stats.vercel.app/api?username=gammadevv&show_icons=true&count_private=true&hide_border=true&theme=transparent"  />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=gammadevv&show_icons=true&count_private=true&hide_border=true&theme=default" />
-    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=gammadevv&show_icons=true&count_private=true&hide_border=true&theme=default" />
+    <source media="(prefers-color-scheme: dark)"  srcset="https://github-readme-stats-clone-wine.vercel.app/api?username=gammadevv&show_icons=true&count_private=true&hide_border=true&theme=transparent"  />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-clone-wine.vercel.app/api?username=gammadevv&show_icons=true&count_private=true&hide_border=true&theme=default" />
+    <img alt="GitHub Stats" src="https://github-readme-stats-clone-wine.vercel.app/api?username=gammadevv&show_icons=true&count_private=true&hide_border=true&theme=default" />
 </picture>
 
   
 <picture>
-    <source media="(prefers-color-scheme: dark)"  srcset="https://github-readme-stats.vercel.app/api/top-langs?username=gammadevv&hide_border=true&layout=compact&theme=transparent"  />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=gammadevv&hide_border=true&layout=compact&theme=default" />
-    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs?username=gammadevv&hide_border=true&layout=compact&theme=default" />
+    <source media="(prefers-color-scheme: dark)"  srcset="https://github-readme-stats-clone-wine.vercel.app/api/top-langs?username=gammadevv&hide_border=true&layout=compact&theme=transparent"  />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-clone-wine.vercel.app/api/top-langs?username=gammadevv&hide_border=true&layout=compact&theme=default" />
+    <img alt="GitHub Stats" src="https://github-readme-stats-clone-wine.vercel.app/api/top-langs?username=gammadevv&hide_border=true&layout=compact&theme=default" />
 </picture>
 </div>
 
