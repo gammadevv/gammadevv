@@ -32,8 +32,8 @@
 
 # <font="mono">STATS</font>
 <center>
-  <stats user="gammadevv" base-url="https://github-readme-stats-clone-wine.vercel.app" show-icons count-private hide-border />
-  <stats user="gammadevv" base-url="https://github-readme-stats-clone-wine.vercel.app" route="/api/top-langs" layout="compact" hide-border />
+  <img src="https://raw.githubusercontent.com/gammadevv/gammadevv/1e33beeaa4e332637f4b227ffd7f311f3e5d1cdf/profile/stats.svg" />
+  <img src="https://raw.githubusercontent.com/gammadevv/gammadevv/1e33beeaa4e332637f4b227ffd7f311f3e5d1cdf/profile/top-langs.svg" />
 </center>
 
 <center>
