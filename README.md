@@ -28,6 +28,15 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/forks-0-_?style=social&logo=forgejo&logoColor=white&labelColor=black&color=rebeccapurple" />
 </p>
 <h3 align="left">
+  eevee 
+  <a href="https://github.com/gammadevv/eevee"><kbd>GitHub</kbd></a>
+</h3>
+<p align="left">
+  eevee - A vibe-coded eBook reader app.
+  <img alt="Static Badge" src="https://img.shields.io/badge/stars-1-_?style=social&logo=githubsponsors&logoColor=white&labelColor=black&color=rebeccapurple" />
+  <img alt="Static Badge" src="https://img.shields.io/badge/forks-0-_?style=social&logo=forgejo&logoColor=white&labelColor=black&color=rebeccapurple" />
+</p>
+<h3 align="left">
   gammadevv.github.io 
   <a href="https://github.com/gammadevv/gammadevv.github.io"><kbd>GitHub</kbd></a>
 </h3>
@@ -44,15 +53,6 @@
   None
   <img alt="Static Badge" src="https://img.shields.io/badge/stars-1-_?style=social&logo=githubsponsors&logoColor=white&labelColor=black&color=rebeccapurple" />
   <img alt="Static Badge" src="https://img.shields.io/badge/forks-0-_?style=social&logo=forgejo&logoColor=white&labelColor=black&color=rebeccapurple" />
-</p>
-<h3 align="left">
-  pyanimecli 
-  <a href="https://github.com/gammadevv/pyanimecli"><kbd>GitHub</kbd></a>
-</h3>
-<p align="left">
-  A powerful command-line interface for searching, getting info, and watching anime directly from your terminal.
-  <img alt="Static Badge" src="https://img.shields.io/badge/stars-1-_?style=social&logo=githubsponsors&logoColor=white&labelColor=black&color=rebeccapurple" />
-  <img alt="Static Badge" src="https://img.shields.io/badge/forks-1-_?style=social&logo=forgejo&logoColor=white&labelColor=black&color=rebeccapurple" />
 </p>
 
 # <span aria-label="STATS"><span aria-hidden="true">𝚂𝚃𝙰𝚃𝚂</span></span>
