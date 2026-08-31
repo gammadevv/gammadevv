@@ -11,6 +11,18 @@
 <hr>
 
 <div align="center">
+<a href="https://discord.com/users/1287361512171634720">
+    <picture>
+        <source media="(prefers-color-scheme: dark)"  srcset="https://lanyard.cnrad.dev/api/1287361512171634720?showDisplayName=true&theme=dark&idleMessage=touching%20grass"  />
+        <source media="(prefers-color-scheme: light)" srcset="https://lanyard.cnrad.dev/api/1287361512171634720?showDisplayName=true&theme=light&idleMessage=touching%20grass" />
+        <img alt="GitHub Stats" src="https://lanyard.cnrad.dev/api/1287361512171634720?showDisplayName=true&idleMessage=touching%20grass" />
+    </picture>
+</a>
+</div>
+
+<hr>
+
+<div align="center">
 <img src="https://landsat.c00l.site/svg?text=Gamma&embed_image=true&attribution=true" />
 </div>
 
