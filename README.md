@@ -76,7 +76,7 @@
 <hr>
 
 <p align="center">
-  <a href="http://gammadevv.github.io/">Visit my portfolio</a>
+  <a href="https://gammadevv.github.io/">Visit my portfolio</a>
 </p>
 
 <p align="center">
