@@ -31,8 +31,8 @@
 # <span aria-label="PROJECTS"><span aria-hidden="true">𝙿𝚁𝙾𝙹𝙴𝙲𝚃𝚂</span></span>
 
 <h3 align="left">
-  gammadevv 
-  <a href="https://github.com/gammadevv/gammadevv"><kbd>GitHub</kbd></a>
+  gammadevv.github.io 
+  <a href="https://github.com/gammadevv/gammadevv.github.io"><kbd>GitHub</kbd></a>
 </h3>
 <p align="left">
   None
@@ -40,8 +40,8 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/forks-0-_?style=social&logo=forgejo&logoColor=white&labelColor=black&color=rebeccapurple" />
 </p>
 <h3 align="left">
-  gammadevv.github.io 
-  <a href="https://github.com/gammadevv/gammadevv.github.io"><kbd>GitHub</kbd></a>
+  gammadevv 
+  <a href="https://github.com/gammadevv/gammadevv"><kbd>GitHub</kbd></a>
 </h3>
 <p align="left">
   None
