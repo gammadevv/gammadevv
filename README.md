@@ -13,8 +13,8 @@
 <div align="center">
 <a href="https://gamma.wayship.link">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://wayship.link/embed/1287361512171634720?show=avatar,name,handle,status,custom,activity,music,battery,last_seen&theme=dark&width=380">
-    <img alt="gamma on Wayship" src="https://wayship.link/embed/1287361512171634720?show=avatar,name,handle,status,custom,activity,music,battery,last_seen&theme=light&width=380">
+    <source media="(prefers-color-scheme: dark)" srcset="https://wayship.link/embed/1287361512171634720?show=avatar,name,handle,status,custom,activity,music,battery,last_seen&theme=dark&width=380" />
+    <img alt="gamma on Wayship" src="https://wayship.link/embed/1287361512171634720?show=avatar,name,handle,status,custom,activity,music,battery,last_seen&theme=light&width=380" />
   </picture>
 </a>
 </div>
