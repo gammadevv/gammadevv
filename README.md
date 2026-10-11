@@ -11,12 +11,11 @@
 <hr>
 
 <div align="center">
-<a href="https://discord.com/users/1287361512171634720">
-    <picture>
-        <source media="(prefers-color-scheme: dark)"  srcset="https://wayship.link/embed/1287361512171634720?show=avatar,name,handle,status,custom,activity,music,battery,last_seen&theme=dark"  />
-        <source media="(prefers-color-scheme: light)" srcset="https://wayship.link/embed/1287361512171634720?show=avatar,name,handle,status,custom,activity,music,battery,last_seen&theme=light" />
-        <img alt="GitHub Stats" src="https://wayship.link/embed/1287361512171634720?show=avatar,name,handle,status,custom,activity,music,battery,last_seen&theme=auto" />
-    </picture>
+<a href="https://gamma.wayship.link">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://wayship.link/embed/1287361512171634720?show=avatar,name,handle,status,custom,activity,music,battery,last_seen&theme=dark&width=380">
+    <img alt="gamma on Wayship" src="https://wayship.link/embed/1287361512171634720?show=avatar,name,handle,status,custom,activity,music,battery,last_seen&theme=light&width=380">
+  </picture>
 </a>
 </div>
 
