@@ -35,7 +35,7 @@
 </h3>
 <p align="left">
   None
-  <img alt="Static Badge" src="https://img.shields.io/badge/stars-0-_?style=social&logo=githubsponsors&logoColor=white&labelColor=black&color=rebeccapurple" />
+  <img alt="Static Badge" src="https://img.shields.io/badge/stars-1-_?style=social&logo=githubsponsors&logoColor=white&labelColor=black&color=rebeccapurple" />
   <img alt="Static Badge" src="https://img.shields.io/badge/forks-0-_?style=social&logo=forgejo&logoColor=white&labelColor=black&color=rebeccapurple" />
 </p>
 <h3 align="left">
@@ -44,7 +44,7 @@
 </h3>
 <p align="left">
   None
-  <img alt="Static Badge" src="https://img.shields.io/badge/stars-0-_?style=social&logo=githubsponsors&logoColor=white&labelColor=black&color=rebeccapurple" />
+  <img alt="Static Badge" src="https://img.shields.io/badge/stars-1-_?style=social&logo=githubsponsors&logoColor=white&labelColor=black&color=rebeccapurple" />
   <img alt="Static Badge" src="https://img.shields.io/badge/forks-0-_?style=social&logo=forgejo&logoColor=white&labelColor=black&color=rebeccapurple" />
 </p>
 <h3 align="left">
@@ -53,7 +53,7 @@
 </h3>
 <p align="left">
   eevee - A vibe-coded eBook reader app.
-  <img alt="Static Badge" src="https://img.shields.io/badge/stars-1-_?style=social&logo=githubsponsors&logoColor=white&labelColor=black&color=rebeccapurple" />
+  <img alt="Static Badge" src="https://img.shields.io/badge/stars-2-_?style=social&logo=githubsponsors&logoColor=white&labelColor=black&color=rebeccapurple" />
   <img alt="Static Badge" src="https://img.shields.io/badge/forks-0-_?style=social&logo=forgejo&logoColor=white&labelColor=black&color=rebeccapurple" />
 </p>
 <h3 align="left">
